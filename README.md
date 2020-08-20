@@ -1,3 +1,3 @@
 # Face-Recognition
 
-This is a face recognition project using OpenCV in python.
+A face recognition project which can identify the face and also estimate the percentage of face being matched.
